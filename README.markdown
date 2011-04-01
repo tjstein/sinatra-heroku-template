@@ -24,4 +24,4 @@ When developing on your local machine, simply run `shotgun` to preview the appli
 
 Google Analytics
 -----
-To enabled Google Analytics for your app, I've included an analytics.haml in /views. Be sure to edit line 4 to include your account ID: `_gaq.push(['_setAccount', 'UA-#######-#']);`
+To enable Google Analytics for your app, I've included an analytics.haml in /views. Be sure to edit line 4 to include your account ID: `_gaq.push(['_setAccount', 'UA-#######-#']);`
