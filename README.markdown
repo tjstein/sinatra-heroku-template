@@ -20,7 +20,7 @@ Usage
 
 Testing Locally
 -----
-When developing on your client machine, simply run `shotgun` to preview the application at localhost:9393.
+When developing on your local machine, simply run `shotgun` to preview the application at localhost:9393.
 
 Google Analytics
 -----
